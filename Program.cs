@@ -35,3 +35,7 @@
         total = a / b;
         Console.WriteLine(a + " / " + b + " = " + total);
     }
+    else 
+    {
+    Console.WriteLine("Неизвестный оператор");
+    }
